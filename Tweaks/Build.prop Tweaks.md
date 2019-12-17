@@ -12,4 +12,4 @@ setprop persist.adb.notify 0
 | ----                   | -------                                      | ------            |
 | ro.config.low_ram=true |	turn off specific memory-intensive features | [Low RAM Device flag](https://source.android.com/devices/tech/perf/low-ram#flag) |
 | persist.adb.notify=0   | hide USB debugging notification | [UsbDeviceManager.java](https://android.googlesource.com/platform/frameworks/base/+/master/services/usb/java/com/android/server/usb/UsbDeviceManager.java#1180) |
-
+| persist.camera.HAL3.enabled=1 | enable Camera2 API on some devices | [Camera HAL3](https://source.android.com/devices/camera/camera3) |
