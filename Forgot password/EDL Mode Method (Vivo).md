@@ -13,5 +13,9 @@
 5. The device will start wiping data by itself during boot or you have to do it manually if it fails (sometimes may happen). 
 
 # Additional Notes
+- This method is tested on [Vivo Y11 (2019)](https://www.gsmarena.com/vivo_y11_(2019)-9925.php)
 - This method only removes Funtouch OS's password lock & it doesn't bypasses Google FRP lock.
 - To bypass FRP altogether you need to flash entire firmware instead (I'm not tested it yet 🤷‍♂️). To do that, skip step 4 and hit **Load XML** and select **rawprogram_unparse.xml** >> **patch0**. Hit **Download** and wait for it finished flashing. 
+
+# Research
+- [A set of QPST utilities and drivers - Lenovo forums](http://lenovo-forums.ru/tutorials/article/980-nabor-utilit-qpst-i-drayverov-dlya-proshivki-ustroystv-lenovo-na-baze-chipov-qualcomm-obnovlyaemaya/)
