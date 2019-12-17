@@ -1,9 +1,12 @@
 # How to Add The Line to build.prop from ADB
+Example:
 ~~~
 adb shell
 su
 echo "persist.adb.notify=0" >> /system/build.prop
 ~~~
+
+# Build.prop Tweaks
 
 | Key                    | Description                                  | Documentattion    |
 | ----                   | -------                                      | ------            |
