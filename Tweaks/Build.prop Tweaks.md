@@ -3,7 +3,7 @@ Example:
 ~~~
 adb shell
 su
-echo "persist.adb.notify=0" >> /system/build.prop
+setprop persist.adb.notify 0
 ~~~
 
 # Build.prop Tweaks
