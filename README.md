@@ -8,4 +8,4 @@
 - [Bypassing FRP Lock](Bypassing%20FRP%20Lock)
     - [Combination File Method (Samsung)](Bypassing%20FRP%20Lock/Combination%20File%20Method%20(Samsung).md)
 - [Forgot Password](Unlcoking%20Vivo%20Lock)
-    - [EDL Mode Method (Vivo) - Qualcomm SoC only](Forgot%20Password/EDL%20Mode%20Method%20(Vivo).md)
+    - [EDL Mode Method (Vivo) - Qualcomm SoC only](Forgot%20password/EDL%20Mode%20Method%20(Vivo).md)
