@@ -1,4 +1,5 @@
 # Android_Hacking
+![GitHub last commit](https://img.shields.io/github/last-commit/AzimsTech/Android_Hacking)
 ![Site cover](cover.png)
 
 # Index
