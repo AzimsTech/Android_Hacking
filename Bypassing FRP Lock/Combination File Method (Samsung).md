@@ -11,3 +11,7 @@
 3. Boot the phone into download mode (volume down + power) start flash the combination file.
 4. Go to the setting enable developer options, and hit oem unlock setting on.
 5. Go into download mode again and start flashing the full original firmware (you can find it online). 
+
+# Research
+- [Samsung's Android USB Driver Download Page](https://developer.samsung.com/galaxy/others/android-usb-driver-for-windows)
+- [Odin download - 4pda forum](https://4pda.ru/forum/index.php?showtopic=648344)
