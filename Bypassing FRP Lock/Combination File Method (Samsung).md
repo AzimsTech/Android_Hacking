@@ -1,3 +1,6 @@
+# Warning
+- All user data will be erased during this process.
+
 # Tools Needed:
 - [Odin](https://raw.githubusercontent.com/AzimsTech/Android_Hacking/master/Tools/Odin3_v3.14.1.rar)
 - [Samsung USB driver](https://raw.githubusercontent.com/AzimsTech/Android_Hacking/master/Drivers/SAMSUNG_USB_Driver_for_Mobile_Phones.exe)
