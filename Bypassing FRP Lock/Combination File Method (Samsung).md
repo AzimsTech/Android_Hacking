@@ -12,6 +12,9 @@
 4. Go to the setting enable developer options, and hit oem unlock setting on.
 5. Go into download mode again and start flashing the full original firmware (you can find it online). 
 
+# Addtitional Notes
+- This method is tested on [Samsung Galaxy A8 Star](https://www.gsmarena.com/samsung_galaxy_a8_star_(a9_star)-9220.php)
+
 # Research
 - [Samsung's Android USB Driver Download Page](https://developer.samsung.com/galaxy/others/android-usb-driver-for-windows)
 - [Odin download - 4pda forum](https://4pda.ru/forum/index.php?showtopic=648344)
