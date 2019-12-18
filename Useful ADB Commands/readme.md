@@ -11,6 +11,7 @@
 ~~~ 
 adb devices // To confirm device is connected
 adb kill-server // To reset ADB host
+adb connect <device local ip> // To connect via wifi
 ~~~
 ## Copy files to/from a device
 **To copy `from` a device:**
