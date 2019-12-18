@@ -14,7 +14,7 @@
 
 **Source:** https://github.com/nopbreak/TwitchMod
 
-[screenshot](https://i.imgur.com/WLxbIci.png)
+📷 [screenshot](https://i.imgur.com/WLxbIci.png)
 
 ## YouTube Vanced
 💾 **Download:** [from offical website](https://vanced.app/)
@@ -29,4 +29,11 @@
 
 **Source:** n/a
 
-[screenshot](https://i.imgur.com/9ZKsGSC.png)
+📷 [screenshot](https://i.imgur.com/9ZKsGSC.png)
+
+## Google Camera Port
+An excellent curated list of Google Cameara port by Celso Azevedo
+
+💾 **Download:** [from Celso Azevedo's website](https://www.celsoazevedo.com/files/android/google-camera/)
+
+**More information:** [Read FAQ](https://www.celsoazevedo.com/files/android/google-camera/troubleshooting/#help47)
