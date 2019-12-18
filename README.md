@@ -4,6 +4,7 @@
 
 # Index
 - [🛠 Tools](Tools)
+    - [ADB & Fastboot](https://chocolatey.org/packages/adb)
     - [Odin](Tools/Odin3_v3.14.1.rar)
     - [QPST (Qualcomm Product Support Tools)](Tools/QPST_2.7.473.zip)
     - [Xiaomi ADB/Fastboot Tools](https://github.com/Szaki/XiaomiADBFastbootTools/releases)
