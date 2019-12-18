@@ -1,8 +1,8 @@
 # Useful ADB + Shell Commands
 - [ADB Server Basics](#ADB-Server-Basics)
-- [Copy files to/from a device](#Copy-files-to/from-a-device)
+- [Copy files to/from a device](#copy-files-tofrom-a-device)
 - [Install an app](#Install-an-app)
-- [Android package manager (pm)](#Android-package-manager-(pm))
+- [Android package manager (pm)](#android-package-manager-pm)
 - [Research](#Research)
 
 ## ADB Server Basics
