@@ -24,4 +24,4 @@
 - 🔧 [Modded Apps](https://github.com/AzimsTech/Android_Hacking/tree/master/Modded%20Apps)
     - [TwitchMod](Modded%20Apps#twitchmod)
     - [YouTube Vanced](Modded%20Apps#youtube-vanced)
-    - [Google Cameara Port](Modded%20Apps/readme.md#google-camera-port)
+    - [Google Camera Port](Modded%20Apps/readme.md#google-camera-port)
