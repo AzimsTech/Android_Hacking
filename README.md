@@ -18,4 +18,4 @@
 - [⚙ Tweaks](Tweaks)
     - [Build.prop Tweaks](Tweaks/Build.prop%20Tweaks.md)
     - [Magisk Modules](Tweaks/Magisk%20Modules/readme.md)
-        - [Sysconfig Patcher](Tweaks/Magisk%20Modules/readme.md#Sysconfig-Patcher)
+        - [Sysconfig Patcher by @VR-25](Tweaks/Magisk%20Modules/readme.md#Sysconfig-Patcher)
