@@ -8,6 +8,8 @@
     - [Odin](Tools/Odin3_v3.14.1.rar)
     - [QPST (Qualcomm Product Support Tools)](Tools/QPST_2.7.473.zip)
     - [Xiaomi ADB/Fastboot Tools](https://github.com/Szaki/XiaomiADBFastbootTools/releases)
+    - [Miflash Pro (official mirror)](http://miuirom.xiaomi.com/rom/u1106245679/4.3.1129.28/miflash_pro-en-4.3.1129.28.zip)
+    - [Mi Unlock (official mirror)](http://miuirom.xiaomi.com/rom/u1106245679/3.5.1108.44/miflash_unlock-en-3.5.1108.44.zip)
 - [💿 Drivers](Drivers)
     - [Android OEM USB Driver List](https://developer.android.com/studio/run/oem-usb#Drivers)
     - [Samsung USB Driver](Drivers/SAMSUNG_USB_Driver_for_Mobile_Phones.exe)
