@@ -20,4 +20,4 @@
     - [Build.prop Tweaks](Tweaks/Build.prop%20Tweaks.md)
     - [Magisk Modules](Tweaks/Magisk%20Modules/readme.md)
         - [Sysconfig Patcher](Tweaks/Magisk%20Modules/readme.md#Sysconfig-Patcher)
-- [Usefull ADB commands](Usefull%20ADB%20commands)
+- [Usefull ADB commands](Useful%20ADB%20Commands)
