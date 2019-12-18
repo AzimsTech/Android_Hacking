@@ -1,7 +1,9 @@
 # How to set build.prop property via ADB
+**Syntax:**
+
 `setprop` `<property>` `<value>`
 
-Example:
+**Example:**
 ~~~
 adb shell
 su
