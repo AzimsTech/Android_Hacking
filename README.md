@@ -7,6 +7,7 @@
     - [Odin](Tools/Odin3_v3.14.1.rar)
     - [QPST (Qualcomm Product Support Tools)](Tools/QPST_2.7.473.zip)
 - [💿 Drivers](Drivers)
+    - [Android OEM USB Driver](https://developer.android.com/studio/run/oem-usb#Drivers)
     - [Samsung USB Driver](Drivers/SAMSUNG_USB_Driver_for_Mobile_Phones.exe)
     - [QDLoader HS-USB Driver](Drivers/QDLoader_HS-USB_Driver.zip)
 - [🔑 Bypassing FRP Lock](Bypassing%20FRP%20Lock)
