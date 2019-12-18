@@ -14,7 +14,7 @@
 
 **Source:** https://github.com/nopbreak/TwitchMod
 
-![screenshot](https://i.imgur.com/WLxbIci.png)
+[screenshot](https://i.imgur.com/WLxbIci.png)
 
 ## YouTube Vanced
 💾 **Download:** [from offical website](https://vanced.app/)
@@ -29,4 +29,4 @@
 
 **Source:** n/a
 
-![screenshot](https://i.imgur.com/9ZKsGSC.png)
+[screenshot](https://i.imgur.com/9ZKsGSC.png)
