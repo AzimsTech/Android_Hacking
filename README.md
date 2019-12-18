@@ -6,6 +6,7 @@
 - [🛠 Tools](Tools)
     - [Odin](Tools/Odin3_v3.14.1.rar)
     - [QPST (Qualcomm Product Support Tools)](Tools/QPST_2.7.473.zip)
+    - [Xiaomi ADB/Fastboot Tools](https://github.com/Szaki/XiaomiADBFastbootTools/releases)
 - [💿 Drivers](Drivers)
     - [Android OEM USB Driver List](https://developer.android.com/studio/run/oem-usb#Drivers)
     - [Samsung USB Driver](Drivers/SAMSUNG_USB_Driver_for_Mobile_Phones.exe)
@@ -16,3 +17,5 @@
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.vivo.com/" width="16px" height="16px"> [EDL Mode Method (Vivo) - Qualcomm SoC only](Forgot%20password/EDL%20Mode%20Method%20(Vivo).md)
 - [⚙ Tweaks](Tweaks)
     - [Build.prop Tweaks](Tweaks/Build.prop%20Tweaks.md)
+    - [Magisk Modules](Magisk%20Modules)
+        - [Sysconfig Patcher](Tweaks/Magisk%20Modules/readme.md#Sysconfig-Patcher)
