@@ -1,8 +1,10 @@
 # Useful ADB + Shell Commands
 - [ADB Server Basics](#ADB-Server-Basics)
 - [Copy files to/from a device](#copy-files-tofrom-a-device)
-- [Install an app](#Install-an-app)
 - [Android package manager (pm)](#android-package-manager-pm)
+    - [Install an app](#Install-an-app)
+    - [Remove Apps](#remove-application-command)
+ - [Activate USB Tethering](#activate-usb-tethering)
 - [Research](#Research)
 
 ## ADB Server Basics
@@ -25,8 +27,7 @@ adb push foo.txt /sdcard/foo.txt
 adb pull /sdcard/bar.txt C:\
 ~~~
 
-## Install an app
-`adb` `install` `path_to_apk`
+
 
 **Example:**
 ~~~
@@ -34,6 +35,7 @@ adb install "C:\com.google.android.youtube.apk"
 ~~~
 
 # Android package manager (pm)
+
 **Get list of `system apps` on the device:**
 ```bash
 adb shell "echo 'apps:' && pm list packages -f | grep /system/app/ | sed 's/.*=/  - /'"
@@ -41,6 +43,9 @@ adb shell "echo 'apps:' && pm list packages -f | grep /system/app/ | sed 's/.*=/
 **Directories:** System apps / pre-installed-bloatware-apps are stored in ``/system/app`` with privileged apps in ``/system/priv-app``
 
 **Formatting Regex:** `s/.*=/  - /`
+
+## Install an app
+`adb` `install` `path_to_apk`
 
 ## Remove application command
 ```bash
