@@ -21,3 +21,6 @@
     - [Magisk Modules](Tweaks/Magisk%20Modules/readme.md)
         - [Sysconfig Patcher](Tweaks/Magisk%20Modules/readme.md#Sysconfig-Patcher)
 - ⌨ [Usefull ADB commands](Useful%20ADB%20Commands)
+- 🔧 [Modded Apps](https://github.com/AzimsTech/Android_Hacking/tree/master/Modded%20Apps)
+    - [TwitchMod](Modded%20Apps#twitchmod)
+    - [YouTube Vanced](Modded%20Apps#youtube-vanced)
