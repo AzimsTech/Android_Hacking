@@ -33,7 +33,7 @@
 📷 [screenshot](https://i.imgur.com/9ZKsGSC.png)
 
 ## Google Camera Port
-An excellent curated list of Google Cameara port by Celso Azevedo
+An excellent curated list of Google Camera port by Celso Azevedo
 
 💾 **Download:** [from Celso Azevedo's website](https://www.celsoazevedo.com/files/android/google-camera/)
 
