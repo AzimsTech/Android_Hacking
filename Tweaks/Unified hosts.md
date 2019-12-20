@@ -8,6 +8,6 @@ Block Android OEMs data collection + ads with [Steven Black's Unified Hosts.](ht
 
 4. **Home** >> **ENABLE AD-BLOCKING** >> reboot required for change to take effect
 
-**Research**
+# Research 
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts)
 - [AdAway xda thread](https://forum.xda-developers.com/showthread.php?t=2190753)
