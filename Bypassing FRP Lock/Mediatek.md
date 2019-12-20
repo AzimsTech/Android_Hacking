@@ -9,9 +9,7 @@
 2. Open **SP Flash Tool** & browse for device's **scatter** file.
 3. Go to the **Format** tab , then mark **Manual Format Flash**.
 4. Set the necessary values (refer to the scatter file)
-`
 ![example](https://i.imgur.com/Tw9y7IX.png)
-`
 5. click **Start** , connect the device. At the end there will be a small window " **OK** ".
 6. Click on "Start".
 7. Connect the switched off phone to the computer.
