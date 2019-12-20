@@ -5,6 +5,7 @@
     - [Install an app](#Install-an-app)
     - [Remove Apps](#remove-application-command)
  - [Activate USB Tethering](#activate-usb-tethering)
+ - [Change Screen Density](#change-screen-density)
 - [Research](#Research)
 
 ## ADB Server Basics
@@ -91,6 +92,13 @@ service call connectivity 33 i32 1 s16 text  (9.0)
 adb shell "su -c 'service call connectivity 34 i32 1 s16 text'"
 ~~~
 
+## Change Screen Density
+`adb` `shell` `wm` `density` `<value>`
+**Example:**
+~~~
+adb shell wm density 480
+adb shell wm density reset // set to default density
+~~~
 
 # Research
 - [Official ADB Documentation](https://developer.android.com/studio/command-line/adb)
