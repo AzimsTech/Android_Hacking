@@ -22,6 +22,7 @@
 -  [🔑 Forgot Password](Forgot%20password)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.vivo.com/" width="16px" height="16px"> [EDL Mode Method (Vivo) - Qualcomm SoC only](Forgot%20password/EDL%20Mode%20Method%20(Vivo).md)
 - [⚙ Tweaks](Tweaks)
+    - [Block Android OEMs Data Collection + Ads](Tweaks/Unified%20hosts.md)
     - [Build.prop Tweaks](Tweaks/Build.prop%20Tweaks.md)
     - [Magisk Modules](Tweaks/Magisk%20Modules/readme.md)
         - [Sysconfig Patcher](Tweaks/Magisk%20Modules/readme.md#Sysconfig-Patcher)
