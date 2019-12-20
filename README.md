@@ -22,6 +22,7 @@
     - [Build.prop Tweaks](Tweaks/Build.prop%20Tweaks.md)
     - [Magisk Modules](Tweaks/Magisk%20Modules/readme.md)
         - [Sysconfig Patcher](Tweaks/Magisk%20Modules/readme.md#Sysconfig-Patcher)
+        - [Debloater (Terminal Emulator)](Tweaks/Magisk%20Modules/Debloater_(Terminal_Emulator)-v17.3.2(76).zip)
 - ⌨ [Usefull ADB commands](Useful%20ADB%20Commands)
 - 🔧 [Modded Apps](https://github.com/AzimsTech/Android_Hacking/tree/master/Modded%20Apps)
     - [TwitchMod](Modded%20Apps#twitchmod)
