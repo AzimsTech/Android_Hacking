@@ -11,6 +11,8 @@
     - [Miflash Pro (official mirror)](http://miuirom.xiaomi.com/rom/u1106245679/4.3.1129.28/miflash_pro-en-4.3.1129.28.zip)
     - [Mi Unlock (official mirror)](http://miuirom.xiaomi.com/rom/u1106245679/3.5.1108.44/miflash_unlock-en-3.5.1108.44.zip)
     - [SP Flash Tool](Tools/SP_Flash_Tool_exe_Windows_v5.1916.00.000.zip)
+    - [Oppo/Oneplus .ozip Firmware decrypter](https://github.com/bkerler/oppo_ozip_decrypt)
+        - [Detailed information/Tutorial](https://bkerler.github.io/reversing/2019/04/24/the-game-begins/)
 - [💿 Drivers](Drivers)
     - [Android OEM USB Driver List](https://developer.android.com/studio/run/oem-usb#Drivers)
     - [Samsung USB Driver](Drivers/SAMSUNG_USB_Driver_for_Mobile_Phones.exe)
