@@ -6,6 +6,7 @@
     - [Remove Apps](#remove-application-command)
  - [Activate USB Tethering](#activate-usb-tethering)
  - [Change Screen Density](#change-screen-density)
+ - [VPN over tethering]()
 - [Research](#Research)
 
 ## ADB Server Basics
@@ -98,6 +99,32 @@ adb shell "su -c 'service call connectivity 34 i32 1 s16 text'"
 ~~~
 adb shell wm density 480
 adb shell wm density reset // set to default density
+~~~
+
+## VPN Over Tethering
+A dirty way to forward VPN over any tethered connection on a Android device:
+
+~~~
+#!/system/bin/sh
+
+# Turn on tethering, then enable VPN, then run this script.
+
+# Grant root access
+su
+
+# Setup iptables before forwarding VPN
+iptables -t filter -F FORWARD
+iptables -t nat -F POSTROUTING
+iptables -t filter -I FORWARD -j ACCEPT
+iptables -t nat -I POSTROUTING -j MASQUERADE
+
+# forward VPN to wlan0 (change to rndis0 for usb tethering)
+ip rule add from 192.168.43.0/24 lookup 61
+ip route add default dev tun0 scope link table 61
+ip route add 192.168.43.0/24 dev <interface> scope link table 61
+ip route add broadcast 255.255.255.255 dev wlan0 scope link table 61
+
+echo "Set up VPN on Wifi hotspot sucessfully"
 ~~~
 
 # Research
