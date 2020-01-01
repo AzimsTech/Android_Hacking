@@ -25,7 +25,7 @@
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.samsung.com/" width="16px" height="16px"> [Combination File Method (Samsung)](Bypassing%20FRP%20Lock/Combination%20File%20Method%20(Samsung).md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://online.mediatek.com/Public%20Documents/Forms/AllItems.aspx" width="16px" height="16px"> [Formatting FRP Partition (Mediatek)](Bypassing%20FRP%20Lock/Mediatek.md)
 -  [🔑 Forgot Password](Forgot%20password)
-    - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https:/www.sonymobile.com/" width="16px" height="16px"> [Bypassing My Xperia Theft Protection (Sony)](Forgot%20Password/Bypassing_My_Xperia_Theft_Protection.md)
+    - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.sonymobile.com/" width="16px" height="16px"> [Bypassing My Xperia Theft Protection (Sony)](Forgot%20Password/Bypassing_My_Xperia_Theft_Protection.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.vivo.com/" width="16px" height="16px"> [EDL Mode Method (Vivo) - Qualcomm SoC only](Forgot%20password/EDL%20Mode%20Method%20(Vivo).md)
 
 - [⚙ Tweaks](Tweaks)
