@@ -27,7 +27,7 @@
 -  [🔑 Forgot Password](Forgot%20password)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.sonymobile.com/" width="16px" height="16px"> [Bypassing My Xperia Theft Protection (Sony)](Forgot%20Password/Bypassing_My_Xperia_Theft_Protection.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.vivo.com/" width="16px" height="16px"> [EDL Mode Method (Vivo) - Qualcomm SoC only](Forgot%20password/EDL%20Mode%20Method%20(Vivo).md)
-
+    - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.mi.com/" width="16px" height="16px"> [Bypassing Mi Account Lock (Temporary Solution) - Qualcomm SoC only](http://forum.gsmdevelopers.com/useful-gsm-flash-tool-and-software/57113-mi-account-frp-userdata-qfil.html)
 - [⚙ Tweaks](Tweaks)
     - [Block Android OEMs Data Collection + Ads](Tweaks/Unified%20hosts.md)
     - [Build.prop Tweaks](Tweaks/Build.prop%20Tweaks.md)
