@@ -16,4 +16,4 @@
 
 # Caveat
 Didn't work on some newer MTK (MediaTek) devices as it requests an authentication certificate to flash.
-Example: Redmi 6A 
+Example: Redmi 6A - it require special Xiaomi account (authorized mi account)
