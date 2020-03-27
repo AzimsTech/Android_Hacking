@@ -14,4 +14,6 @@
 6. Click on "Start".
 7. Connect the switched off phone to the computer.
 
-
+# Caveat
+Didn't work on some newer MTK (MediaTek) devices as it requests an authentication certificate to flash.
+Example: Redmi 6A 
