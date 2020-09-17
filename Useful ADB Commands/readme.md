@@ -1,6 +1,7 @@
 # Useful ADB + Shell Commands
 - [ADB Server Basics](#ADB-Server-Basics)
 - [Copy files to/from a device](#copy-files-tofrom-a-device)
+- [Changing MAC Address (Root Needed)](#changing-mac-address-Root-Needed)
 - [Android package manager (pm)](#android-package-manager-pm)
     - [Install an app](#Install-an-app)
     - [Remove Apps](#remove-application-command)
@@ -36,6 +37,30 @@ adb pull /sdcard/bar.txt C:\
 ~~~
 adb install "C:\com.google.android.youtube.apk"
 ~~~
+
+# Changing MAC Address (Root Needed)
+
+~~~ 
+adb shell
+su
+ifconfig wlan0 hw ether <XX:XX:XX:XX:XX:XX>
+~~~
+
+## To check current MAC Address 
+
+~~~
+adb shell
+su
+ifconfig wlan0
+~~~
+
+Where **HWaddr** is your MAC Address. Example:
+
+~~~
+ HWaddr 51:04:b6:07:42:73
+~~~
+
+
 
 # Android package manager (pm)
 
