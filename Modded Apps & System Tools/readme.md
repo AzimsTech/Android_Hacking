@@ -1,11 +1,11 @@
 # Modded Apps & System Tools
 # Index
-- [Modded Apps](modded-apps)  
+- [Modded Apps](#modded-apps)  
     - [TwitchMod](#TwitchMod)
     - [YouTube Vanced](#Youtube-Vanced)
     - [Google Camera Port](#Google-Camera-Port)
-- [System Tools](System-Tools)  
-    - [Qct Modem Capabilities](Qct-Modem-Capabilities)
+- [System Tools](#System-Tools)  
+    - [Qct Modem Capabilities](#Qct-Modem-Capabilities)
 
 # Modded Apps
 
