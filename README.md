@@ -37,7 +37,7 @@
         - [Debloater (Terminal Emulator)](Tweaks/Magisk%20Modules/readme.md#debloater-terminal-emulator)
 
 - ⌨ [Usefull ADB commands](Useful%20ADB%20Commands)
-- 🔧 [Modded Apps & System Tools](https://github.com/AzimsTech/Android_Hacking/tree/master/Modded%20Apps)
+- 🔧 [Modded Apps & System Tools](Modded%20Apps%20&%20System%20Tools)
     - [Modded Apps](Modded%20Apps%20%26%20System%20Tools#Modded-Apps)
         - [TwitchMod](Modded%20Apps%20%26%20System%20Tools#TwitchMod)
         - [YouTube Vanced](Modded%20Apps%20%26%20System%20Tools#Youtube-Vanced)
