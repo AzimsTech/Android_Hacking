@@ -26,10 +26,10 @@ Block Android OEMs data collection + ads with [Steven Black's Unified Hosts.](ht
 ~~~
 #!/system/bin/sh
 
-iptables -t nat -A OUTPUT -p tcp --dport 53 -j DNAT --to-destination 176.103.130.130:53
-iptables -t nat -A OUTPUT -p udp --dport 53 -j DNAT --to-destination 176.103.130.131:53
-iptables -t nat -I OUTPUT -p tcp --dport 53 -j DNAT --to-destination 176.103.130.130:53
-iptables -t nat -I OUTPUT -p udp --dport 53 -j DNAT --to-destination 176.103.130.131:53
+iptables -t nat -A OUTPUT -p tcp --dport 53 -j DNAT --to-destination 94.140.14.14:53
+iptables -t nat -A OUTPUT -p udp --dport 53 -j DNAT --to-destination 94.140.15.15:53
+iptables -t nat -I OUTPUT -p tcp --dport 53 -j DNAT --to-destination 94.140.14.14:53
+iptables -t nat -I OUTPUT -p udp --dport 53 -j DNAT --to-destination 94.140.15.15:53
 ~~~
 
 2. Place the script file into `/data/adb/service.d` and set `755` as **permissions**. 
