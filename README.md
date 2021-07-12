@@ -14,6 +14,7 @@
     - [Sony Mobile Flasher/Flashtool (official mirror)](http://www.flashtool.net/downloads.php)
     - [Oppo/Oneplus .ozip Firmware decrypter](https://github.com/bkerler/oppo_ozip_decrypt)
         - [Detailed information/Tutorial](https://bkerler.github.io/reversing/2019/04/24/the-game-begins/)
+    - [MTK Bypass Universal Windows ](https://megafon929.github.io/mtk) - Bypass SP flash tool Authentication by [megafon929](https://github.com/megafon929)
 
 - [💿 Drivers](Drivers)
     - [Android OEM USB Driver List](https://developer.android.com/studio/run/oem-usb#Drivers)
