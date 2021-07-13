@@ -15,6 +15,7 @@
     - [Oppo/Oneplus .ozip Firmware decrypter](https://github.com/bkerler/oppo_ozip_decrypt)
         - [Detailed information/Tutorial](https://bkerler.github.io/reversing/2019/04/24/the-game-begins/)
     - [MTK Bypass Universal Windows ](https://megafon929.github.io/mtk) - Bypass SP flash tool Authentication by [megafon929](https://github.com/megafon929)
+    - [SamFirm Tool A.I.O](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/)
 
 - [💿 Drivers](Drivers)
     - [Android OEM USB Driver List](https://developer.android.com/studio/run/oem-usb#Drivers)
@@ -45,3 +46,6 @@
         - [Google Camera Port](Modded%20Apps%20%26%20System%20Tools#Google-Camera-Port)
     - [System Tools](Modded%20Apps%20%26%20System%20Tools#System-Tools)
         - [Qct Modem Capabilities](Modded%20Apps%20%26%20System%20Tools#Qct-Modem-Capabilities)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc4MDMxNDE2N119
+-->
