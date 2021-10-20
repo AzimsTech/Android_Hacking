@@ -31,6 +31,7 @@
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.vivo.com/" width="16px" height="16px"> [EDL Mode Method (Vivo) - Qualcomm SoC only](Forgot%20Password/EDL%20Mode%20Method%20(Vivo).md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.mi.com/" width="16px" height="16px"> [Bypassing Mi Account Lock (Temporary Solution) - Qualcomm SoC only](http://forum.gsmdevelopers.com/useful-gsm-flash-tool-and-software/57113-mi-account-frp-userdata-qfil.html)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.oppo.com/" width="16px" height="16px"> [Finding Device Model Number When Phone is Locked (Oppo)](Forgot%20Password/Find-device-model-number.md)
+    - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.mi.com/" width="16px" height="16px"> [Modified MIUI Firmware for Bypassing Mi Account Lock) - Qualcomm SoC only](https://romadd.com/category/mi-account-bypass-without-vpn/)
 - [⚙ Tweaks](Tweaks)
     - [Block Android OEMs Data Collection + Ads](Tweaks/Unified%20hosts.md)
     - [Build.prop Tweaks](Tweaks/Build.prop%20Tweaks.md)
