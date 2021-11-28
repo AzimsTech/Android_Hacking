@@ -16,6 +16,7 @@
         - [Detailed information/Tutorial](https://bkerler.github.io/reversing/2019/04/24/the-game-begins/)
     - [MTK Bypass Universal Windows ](https://megafon929.github.io/mtk) - Bypass SP flash tool Authentication by [megafon929](https://github.com/megafon929)
     - [SamFirm Tool A.I.O](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) - Download firmware, bypass FRP for Samsung devices
+    - [HISuite-Proxy](https://github.com/ProfessorJTJ/HISuite-Proxy) - Manipulating the firmware source of HiSuite for Huawei.
 
 - [💿 Drivers](Drivers)
     - [Android OEM USB Driver List](https://developer.android.com/studio/run/oem-usb#Drivers)
