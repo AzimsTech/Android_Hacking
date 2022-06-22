@@ -17,17 +17,22 @@
     - [MTK Bypass Universal Windows ](https://megafon929.github.io/mtk) - Bypass SP flash tool Authentication by [megafon929](https://github.com/megafon929)
     - [SamFirm Tool A.I.O](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) - Download firmware, bypass FRP for Samsung devices
     - [HISuite-Proxy](https://github.com/ProfessorJTJ/HISuite-Proxy) - Manipulating the firmware source of HiSuite for Huawei.
+    - [Research Download](Tools/RESEARCHDOWNLOAD_R21.0.0001.rar) - Flash tool for Unisoc Spreadtrum devices.
+
+
 
 - [💿 Drivers](Drivers)
     - [Android OEM USB Driver List](https://developer.android.com/studio/run/oem-usb#Drivers)
     - [Samsung USB Driver](Drivers/SAMSUNG_USB_Driver_for_Mobile_Phones.exe)
     - [QDLoader HS-USB Driver](Drivers/QDLoader_HS-USB_Driver.zip)
+    - [Unisoc Spreadtrum Driver](Drivers/Unisoc_Spreadtrum_Driver.rar) 
     <!-- - [MTK Android USB Driver](Drivers/MTK_Android_USB_Driver.zip) -->
 
 - [🔑 Bypassing FRP Lock](Bypassing%20FRP%20Lock)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.samsung.com/" width="16px" height="16px"> [Combination File Method (Samsung)](Bypassing%20FRP%20Lock/Combination%20File%20Method%20(Samsung).md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://online.mediatek.com/Public%20Documents/Forms/AllItems.aspx" width="16px" height="16px"> [Formatting FRP Partition (Mediatek)](Bypassing%20FRP%20Lock/Mediatek.md)
 -  [🔑 Forgot Password](Forgot%20password)
+    - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.realme.com/" width="16px" height="16px"> [Remove Lockscreen/Factory Reset Realme C21Y (Unisoc Spreadtrum)](Forgot%20Password/Remove_Lockscreen_Realme_C21Y.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.sonymobile.com/" width="16px" height="16px"> [Bypassing My Xperia Theft Protection (Sony)](Forgot%20Password/Bypassing_My_Xperia_Theft_Protection.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.vivo.com/" width="16px" height="16px"> [EDL Mode Method (Vivo) - Qualcomm SoC only](Forgot%20Password/EDL%20Mode%20Method%20(Vivo).md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.mi.com/" width="16px" height="16px"> [Bypassing Mi Account Lock (Temporary Solution) - Qualcomm SoC only](http://forum.gsmdevelopers.com/useful-gsm-flash-tool-and-software/57113-mi-account-frp-userdata-qfil.html)
