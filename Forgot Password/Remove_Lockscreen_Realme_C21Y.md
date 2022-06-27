@@ -1,5 +1,5 @@
 # Remove Lockscreen/Factory Reset Realme C21Y
-![cover](https://i.imgur.com/auNK56I.png)
+<img src="https://i.imgur.com/auNK56I.png" width="640px">
 
 # Tools
 - [RESEARCHDOWNLOAD_R21.0.0001](../Tools/RESEARCHDOWNLOAD_R21.0.0001.rar)
