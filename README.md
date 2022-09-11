@@ -32,6 +32,7 @@
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.samsung.com/" width="16px" height="16px"> [Combination File Method (Samsung)](Bypassing%20FRP%20Lock/Combination%20File%20Method%20(Samsung).md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://online.mediatek.com/Public%20Documents/Forms/AllItems.aspx" width="16px" height="16px"> [Formatting FRP Partition (Mediatek)](Bypassing%20FRP%20Lock/Mediatek.md)
 -  [🔑 Forgot Password](Forgot%20password)
+    - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.samsung.com/" width="16px" height="16px"> [Factory Reset OneUI 3.x (Samsung)](Forgot%20Password/Factory_Reset_OneUI3.x.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.realme.com/" width="16px" height="16px"> [Remove Lockscreen/Factory Reset Realme C21Y (Unisoc Spreadtrum)](Forgot%20Password/Remove_Lockscreen_Realme_C21Y.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.sonymobile.com/" width="16px" height="16px"> [Bypassing My Xperia Theft Protection (Sony)](Forgot%20Password/Bypassing_My_Xperia_Theft_Protection.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.vivo.com/" width="16px" height="16px"> [EDL Mode Method (Vivo) - Qualcomm SoC only](Forgot%20Password/EDL%20Mode%20Method%20(Vivo).md)
