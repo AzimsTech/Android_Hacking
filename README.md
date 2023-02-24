@@ -19,7 +19,11 @@
     - [HISuite-Proxy](https://github.com/ProfessorJTJ/HISuite-Proxy) - Manipulating the firmware source of HiSuite for Huawei.
     - [Research Download](Tools/RESEARCHDOWNLOAD_R21.0.0001.rar) - Flash tool for Unisoc Spreadtrum devices.
 
-
+- ↗ [Launch an App from Chrome (intent:\\\ URI)](#)
+  - <img src="./images/icon_settings.png" width="16px" height="16px"> [Settings app](intent://com.android.settings/#Intent;scheme=android-app;end)
+  - <img src="./images/icon_google-search.png" width="16px" height="16px"> [Open Google Search app](intent://com.google.android.googlequicksearchbox/#Intent;scheme=android-app;end)
+  - <img src="./images/icon_galaxy-store.png" width="16px" height="16px"> [Open Galaxy Store](intent://com.sec.android.app.samsungapps/#Intent;scheme=android-app;end)
+  - <img src="./images/icon_gms.png" width="16px" height="16px"> [Set Lock Screen (GMS)](intent://com.google.android.gms/#Intent;scheme=promote_smartlock_scheme;end)
 
 - [💿 Drivers](Drivers)
     - [Android OEM USB Driver List](https://developer.android.com/studio/run/oem-usb#Drivers)
@@ -29,7 +33,7 @@
     <!-- - [MTK Android USB Driver](Drivers/MTK_Android_USB_Driver.zip) -->
 
 - [🔑 Bypassing FRP Lock](Bypassing%20FRP%20Lock)
-    - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.samsung.com/" width="16px" height="16px"> [Combination File Method (Samsung)](Bypassing%20FRP%20Lock/Combination%20File%20Method%20(Samsung).md)
+    -  [Combination File Method (Samsung)](Bypassing%20FRP%20Lock/Combination%20File%20Method%20(Samsung).md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://online.mediatek.com/Public%20Documents/Forms/AllItems.aspx" width="16px" height="16px"> [Formatting FRP Partition (Mediatek)](Bypassing%20FRP%20Lock/Mediatek.md)
 -  [🔑 Forgot Password](Forgot%20password)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.samsung.com/" width="16px" height="16px"> [Factory Reset OneUI 3.x (Samsung)](Forgot%20Password/Factory_Reset_OneUI3.x.md)
