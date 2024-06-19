@@ -56,5 +56,6 @@
     - [System Tools](Modded%20Apps%20%26%20System%20Tools#System-Tools)
         - [Qct Modem Capabilities](Modded%20Apps%20%26%20System%20Tools#Qct-Modem-Capabilities)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcwNTcyMDYsLTI5NDA0NzYwN119
+eyJoaXN0b3J5IjpbMjEyNDQyOTk3NSwtMTA0NzA1NzIwNiwtMj
+k0MDQ3NjA3XX0=
 -->
