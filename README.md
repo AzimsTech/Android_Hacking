@@ -29,6 +29,7 @@
     <!-- - [MTK Android USB Driver](Drivers/MTK_Android_USB_Driver.zip) -->
 
 - [🔑 Bypassing FRP Lock](Bypassing%20FRP%20Lock)
+    - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.mi.com/" width="16px" height="16px"> [Bypassing FRP on Xiaomi Redmi 13C (HyperOS/MIUI14)](Bypassing%20FRP%20Lock/SIMLock-SecondSpace-Redmi13C.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.samsung.com/" width="16px" height="16px"> [Combination File Method (Samsung)](Bypassing%20FRP%20Lock/Combination%20File%20Method%20(Samsung).md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://online.mediatek.com/Public%20Documents/Forms/AllItems.aspx" width="16px" height="16px"> [Formatting FRP Partition (Mediatek)](Bypassing%20FRP%20Lock/Mediatek.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.vivo.com/" width="16px" height="16px"> [VIVO EasyShare method (tested on Android 13)](https://www.youtube.com/watch?v=cC8wyIs4oY8)
