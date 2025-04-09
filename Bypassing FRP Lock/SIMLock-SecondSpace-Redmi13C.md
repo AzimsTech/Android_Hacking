@@ -1,5 +1,6 @@
 # Bypassing FRP on Xiaomi Redmi 13C (HyperOS/MIUI14)
-![13c](https://gist.github.com/user-attachments/assets/36ff679d-4226-4cf3-8385-b055616ba0fd)
+![13c](https://github.com/user-attachments/assets/6eb50d08-0d45-46a6-a0d8-3c86d2deeb1d)
+
 
 > [!WARNING]
 > **Disclaimer:** Use these steps only on devices you own. Unauthorized bypassing of security features is illegal.
@@ -24,8 +25,7 @@
 
 2. **Open Settings**  
    - Turn on the screen, swipe down, and tap the **Settings** icon.
-     ![notification tray](https://gist.github.com/user-attachments/assets/1823a366-578e-40c6-a220-86ddfab59cb0)
-
+     ![notification tray](https://github.com/user-attachments/assets/d17ac57e-8d59-46a8-a3c4-6d43a90566fc)
 
 3. **Google Help & Share**  
    - Open **Google** settings.  
