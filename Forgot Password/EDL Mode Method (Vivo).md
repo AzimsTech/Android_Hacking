@@ -8,8 +8,10 @@
 # General steps
 1. Find & download the full firmware online for your devices. Example from this [website](https://www.firmware27.com/p/vivo.html).
 2. Plug the phone into computer when it turned off and enter the EDL Mode. Search for test point picture for specific model online for refferences. [Example](https://www.google.com/search?q=vivo+y11+test+point)
-3. Open QFIL program. Select the "**Select Build Type**" check box to "**Rat Build**". On "**Select Programmer**" section **Browse** the correct prog_emmc_firehose_xxxx.mbn file for your devices.
+3. Open QFIL program. Select the "**Select Build Type**" check box to "**Flat Build**". On "**Select Programmer**" section **Browse** the correct prog_emmc_firehose_xxxx.mbn file for your devices.
+![alt text](<Screenshot 2025-04-17 194340.png>)
 4. Click on **Tools** >> **Parition Manager** >> right-click **userdata** >> **Manage Partition Data** >> **Erase**. The program will output "**Finish Erase Data Block**" now unplug from the computer and turn on the device.
+![alt text](<Screenshot 2025-04-17 181746.png>)
 5. The device will start wiping data by itself during boot or you have to do it manually if it fails (sometimes may happen). 
 
 # Additional Notes
