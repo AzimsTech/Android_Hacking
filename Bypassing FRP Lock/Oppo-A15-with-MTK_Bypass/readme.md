@@ -31,13 +31,14 @@
    ![spflashtool-format](spflashtool-format.png)
 4. Click **Start**.  
 5. Run **broom.bat** in `MTK_Bypass_Updater/Bypass`.  
-6. Hold **Volume+** and **Volume–** while connecting the USB cable.  
+6. Hold **Volume+** and **Volume–** while connecting the USB cable.  You should get "Protection disabled" at the end.  
+   ![broom](brom.png)
 7. Wait for the green checkmark.  
    ![greencheckmark](green-chekmark.png)
 8. Unplug the USB cable.  
 
 ## 3. Clearing FRP Partition
-1. Repeat steps in section 2, but enter:
+1. Repeat steps in [section 2](#2-clearing-user-data), but enter this values instead:
    - **Begin Address:** `0x15088000`  
    - **Format Length:** `0x100000`  
 2. Wait for the green checkmark.  
