@@ -23,4 +23,4 @@
 9. Reboot the device. After reboot, complete the initial setup (language, Wi‑Fi, etc.). When prompted for Google account, it will now ask for the lock screen you just created—enter it, and the phone will finish activation.
 
 > [!NOTE]
-> Tested on Redmi 13C (31 May 2025)
+> Tested on Redmi 9A (31 May 2025)
