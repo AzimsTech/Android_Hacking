@@ -1,4 +1,4 @@
-# Bypassing FRP on Redmi 10 (Second Space Method)
+# Bypassing FRP on Redmi 10C (Second Space Method)
 
  ![cover](cover.png)
 
