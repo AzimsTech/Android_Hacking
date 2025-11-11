@@ -19,15 +19,15 @@
     - Pung the phone to the computer while holding volume down
     - Follow the instruction on the screen
     - If everything done correctly it should reboot the phone automatically
-    - See unlock symbol that means bootloader has been unlocked. If not, redo step 1 again. 
-    <a href="unlocked.png"> <img src="unlocked.png" width="58"></a>
+    - See unlock symbol that means bootloader has been unlocked. If not, redo step 1 again.  
+    <a href="unlocked.png"> <img src="unlocked.png" width="100"></a>
 
 2. **Entering fastboot**
     - Turn off the phone
     - Hold volume up and power button.
     - Only release power button when "MI" logo showed up.
     - Recovery mode should look like this:   
-    <a href="recovery.jpeg"> <img src="recovery.jpeg" width="58"> </a>
+    <a href="recovery.jpeg"> <img src="recovery.jpeg" width="100"> </a>
     - Chooose enter fastboot with volume and power button
 2. **Wiping Data and Removing FRP**
     - Run Windows terminal and enter this command below:  
