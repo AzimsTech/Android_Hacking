@@ -18,8 +18,7 @@
     - [SamFirm Tool A.I.O](https://forum.xda-developers.com/t/tool-samfirm-a-i-o-tools-firmware-downloader-mtp-bypass-frp.4210103/) - Download firmware, bypass FRP for Samsung devices
     - [HISuite-Proxy](https://github.com/ProfessorJTJ/HISuite-Proxy) - Manipulating the firmware source of HiSuite for Huawei.
     - [Research Download](Tools/RESEARCHDOWNLOAD_R21.0.0001.rar) - Flash tool for Unisoc Spreadtrum devices.
-
-
+    - [CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader) - Bootloader Unlock Exploit for Some Unisoc SoC Devices
 
 - [💿 Drivers](Drivers)
     - [Android OEM USB Driver List](https://developer.android.com/studio/run/oem-usb#Drivers)
