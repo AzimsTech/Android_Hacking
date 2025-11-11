@@ -29,7 +29,7 @@
     <!-- - [MTK Android USB Driver](Drivers/MTK_Android_USB_Driver.zip) -->
 
 - [🔑 Bypassing FRP Lock](Bypassing%20FRP%20Lock)
-    - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.mi.com/" width="16px" height="16px"> [Unisoc Bootloader Exploit (Redmi A5 Android 15 Go edition)](./Bypassing%20FRP%20Lock/Redmi-10C-Second-Space/readme.md)
+    - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.mi.com/" width="16px" height="16px"> [Unisoc Bootloader Exploit (Redmi A5 Android 15 Go edition)](./Bypassing%20FRP%20Lock/Redmi_A5/readme.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.mi.com/" width="16px" height="16px"> [Second Space Method (Xiaomi Redmi 10C MIUI13/14)](./Bypassing%20FRP%20Lock/Redmi-10C-Second-Space/readme.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.mi.com/" width="16px" height="16px"> [Sim Lock Method (Xiaomi Redmi 13C HyperOS/MIUI14)](Bypassing%20FRP%20Lock/SIMLock-SecondSpace-Redmi13C.md)
     - <img src="http://s2.googleusercontent.com/s2/favicons?domain_url=https://www.mi.com/" width="16px" height="16px"> [SD Card Method (Xiaomi Redmi 9A MIUI V12.5)](./Bypassing%20FRP%20Lock/Redmi-9A/readme.md)
