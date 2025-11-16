@@ -20,11 +20,11 @@
     - Short two pins near camera module:  
     <a href="EDL-pinout.jpg"> <img src="EDL-pinout.jpg" width="300"></a>  
     - Plung the phone to the computer while shorting those two pin
-    - Extract and Install the QDLoader HS-USB Driver
+    - Extract and Install the **QDLoader HS-USB Driver**
 
 2. **Erasing FRP**
     - Download and install **QPST**
-    - Search and Run QFIL  
+    - Search and Run **QFIL**  
     <a href="run-QFIL.png"> <img src="run-QFIL.png" width="300"> </a>  
     - Follow video below:
     - Your phone will reboot
