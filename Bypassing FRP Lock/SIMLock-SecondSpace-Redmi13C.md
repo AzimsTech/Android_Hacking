@@ -1,6 +1,5 @@
 # Bypassing FRP on Xiaomi Redmi 13C (HyperOS/MIUI14)
-![13c](https://github.com/user-attachments/assets/6eb50d08-0d45-46a6-a0d8-3c86d2deeb1d)
-
+<img src="https://github.com/user-attachments/assets/6eb50d08-0d45-46a6-a0d8-3c86d2deeb1d" width="300">  
 
 > [!WARNING]
 > **Disclaimer:** Use these steps only on devices you own. Unauthorized bypassing of security features is illegal.
