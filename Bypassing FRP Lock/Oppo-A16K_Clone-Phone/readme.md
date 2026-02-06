@@ -19,7 +19,7 @@
 
 **2. Open Settings**
 - Hold **Volume Up + Volume Down** again
-- Draw flipped "L" shape (up, then left) for voice commands
+- Draw flipped "L" shape (left to right, then up) for voice commands
     ```console
              ↑
              |
