@@ -19,6 +19,7 @@
     - [HISuite-Proxy](https://github.com/ProfessorJTJ/HISuite-Proxy) - Manipulating the firmware source of HiSuite for Huawei.
     - [Research Download](Tools/RESEARCHDOWNLOAD_R21.0.0001.rar) - Flash tool for Unisoc Spreadtrum devices.
     - [CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader) - Bootloader Unlock Exploit for Some Unisoc SoC Devices
+    - [mtkclient](https://github.com/bkerler/mtkclient) - Useful tool for Mediatek SoC devices by @bkerler
 
 - [💿 Drivers](Drivers)
     - [Android OEM USB Driver List](https://developer.android.com/studio/run/oem-usb#Drivers)
