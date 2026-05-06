@@ -9,9 +9,9 @@
 > Do a factory reset if you haven't already.
 
 # Downloads
-- [prog_emmc_firehose_8953_ddr.mbn](./prog_emmc_firehose_8953_ddr.mbn)
-- [QPST (Qualcomm Product Support Tool)](../../Tools/QPST_2.7.473.zip)
-- [QDLoader HS-USB Driver](./QHSUSB_Drivers.7z)
+- [prog-emmc-firehose-8953-ddr.mbn](./prog-emmc-firehose-8953-ddr.mbn)
+- [QPST (Qualcomm Product Support Tool)](../../Tools/QPST-2.7.473.zip)
+- [QDLoader HS-USB Driver](./QHSUSB-Drivers.7z)
 # Step by Step
 
 1. **Entering EDL mode**

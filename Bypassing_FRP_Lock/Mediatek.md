@@ -2,7 +2,7 @@
 
 # Tools
 - [MTK Android USB Driver](Drivers/MTK_Android_USB_Driver.zip) 
-- [SP Flash Tool](Tools/SP_Flash_Tool_exe_Windows_v5.1916.00.000.zip)
+- [SP Flash Tool](Tools/SP-Flash-Tool-exe-Windows-v5.1916.00.000.zip)
 
 # Steps
 1. Find **factory firmware** for specific device online.

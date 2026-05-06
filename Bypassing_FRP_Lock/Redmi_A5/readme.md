@@ -6,7 +6,7 @@
 > **Disclaimer:** Use these steps only on devices you own. Unauthorized bypassing of security features is illegal.
 
 # Downloads
-- Unisoc Driver – [SPRD_NPI_USBDriver_1.4.zip](../../Drivers/SPRD_NPI_USBDriver_1.4.zip)
+- Unisoc Driver – [SPRD-NPI-USBDriver-1.4.zip](../../Drivers/SPRD-NPI-USBDriver-1.4.zip)
 - Bootloader Unlock Exploit – [ums9230e_Tecno_KL4.zip](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader/releases/tag/1.72)
 - ADB & Fastboot – `winget install Google.PlatformTools`
 

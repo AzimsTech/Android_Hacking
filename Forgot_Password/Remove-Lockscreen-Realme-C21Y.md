@@ -2,9 +2,9 @@
 <img src="https://i.imgur.com/auNK56I.png" width="640px">
 
 # Tools
-- [RESEARCHDOWNLOAD_R21.0.0001](../Tools/RESEARCHDOWNLOAD_R21.0.0001.rar)
-- [Unisoc Driver](../Drivers/Unisoc_Spreadtrum_Driver.rar)
-- [.pac file (device specific)](../Forgot%20Password/Realme_C21Y_files/C21Y.pac)
+- [RESEARCHDOWNLOAD_R21.0.0001](../Tools/RESEARCHDOWNLOAD-R21.0.0001.rar)
+- [Unisoc Driver](../Drivers/Unisoc-Spreadtrum-Driver.rar)
+- [.pac file (device specific)](../Forgot_Password/Realme_C21Y_files/C21Y.pac)
 
 
 # Steps
@@ -28,4 +28,3 @@ C21Y.pac
 # Resources
 - [4pda.ru forums](https://4pda.to/forum/index.php?showtopic=822515)
 - [.pac file downloads](https://www.flashfile.in/free-realme-c21y-rmx3261-lock-reset-frp-file/)
-

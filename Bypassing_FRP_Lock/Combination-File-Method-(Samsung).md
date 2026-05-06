@@ -2,8 +2,8 @@
 - All user data will be erased during this process.
 
 # Tools Needed:
-- [Odin](https://raw.githubusercontent.com/AzimsTech/Android_Hacking/master/Tools/Odin3_v3.14.1.rar)
-- [Samsung USB driver](https://raw.githubusercontent.com/AzimsTech/Android_Hacking/master/Drivers/SAMSUNG_USB_Driver_for_Mobile_Phones.exe)
+- [Odin](https://raw.githubusercontent.com/AzimsTech/Android_Hacking/master/Tools/Odin3-v3.14.1.rar)
+- [Samsung USB driver](https://raw.githubusercontent.com/AzimsTech/Android_Hacking/master/Drivers/SAMSUNG-USB-Driver-for-Mobile-Phones.exe)
 
 # General steps
 1. Find out the version of the bootloader by going into recovery mode (volume up + power). [Example](https://i.imgur.com/eZVNMUw.jpg) N920IDV**U5**CRH2

@@ -8,7 +8,7 @@
 
 ## 1. Preparation
 1. Download these files:
-   - [Oppo A15 Scatter & DA file](./Oppo%20A15%20Scatter%20&%20DA%20file.zip)
+   - [Oppo A15 Scatter & DA file](./Oppo-A15-Scatter-&-DA-file.zip)
    - [MTK_Bypass_Updated.zip](https://m929.ru/_files/MTK_Bypass_Updated.zip)  
    - [UsbDk_1.0.22_x64.msi](https://github.com/daynix/UsbDk/releases/download/v1.00-22/UsbDk_1.0.22_x64.msi)  
 2. Extract **MTK_Bypass_Updated.zip**.  

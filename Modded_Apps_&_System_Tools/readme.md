@@ -10,7 +10,7 @@
 # Modded Apps
 
 ## TwitchMod
-💾 **Download:** [8.4.0_BETA-1804001](https://raw.githubusercontent.com/AzimsTech/Android_Hacking/master/Modded%20Apps/tv.twitch.android.app_8.4.0_BETA-1804001_mod.apk)
+💾 **Download:** [8.4.0_BETA-1804001](https://raw.githubusercontent.com/AzimsTech/Android_Hacking/master/Modded_Apps_&_System_Tools/tv.twitch.android.app-8.4.0-BETA-1804001-mod.apk)
 
 **Modifications:** 
 - Disabled ads
@@ -50,7 +50,7 @@ An excellent curated list of Google Camera port by Celso Azevedo
 ## Qct Modem Capabilities
 Find out which bands your phone supports & disabling them. Useful for field testing.
 
-💾 **Download:** [ver. 2019-03-13-7](Qct%20Modem%20Capabilities_v2019-03-13-7%20(1903137)%20.apk)
+💾 **Download:** [ver. 2019-03-13-7](Qct-Modem-Capabilities-v2019-03-13-7-(1903137).apk)
 
 **Features:** 
 - Display modem information
